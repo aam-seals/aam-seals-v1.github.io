@@ -145,13 +145,13 @@
 /*.btn-3D { position: absolute; top: 20px; right: 20px; padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #007BFF; color: #ffffff; border: none; border-radius: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); }*/
 /*.btn-3D:hover { background-color: #0056b3; }*/
 
-@font-face {
-    font-family: 'DejaVu Serif';
-    src: url('static/fonts/DejaVuSerif.woff2') format('woff2');
-         url('static/fonts/DejaVuSerif.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+/*@font-face {*/
+/*    font-family: 'DejaVu Serif';*/
+/*    src: url('static/fonts/DejaVuSerif.woff2') format('woff2');*/
+/*         url('static/fonts/DejaVuSerif.woff') format('woff');*/
+/*    font-weight: normal;*/
+/*    font-style: normal;*/
+/*}*/
 
 
 .slide-title {
